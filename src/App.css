@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  background-color: #f8f8f8;
+}
+
+
+
+/* footer > div{
+  position: relative;
+  bottom: 50px;
+  left:40px;
+} */
+
+footer > div > div > a{
+  padding: 5px;
+}
+
+/* footer {
+  border-top: 0.5px solid black;
+  margin-left: 50px;
+  margin-right: 50px;
+} */
+
+input {
+  border: 1px solid black;
+}
+
+/* 
+responsive style
+*/
